@@ -1,0 +1,7 @@
+﻿<resources>
+    <string name="app_name">文件管理器</string>
+    <string name="title_activity_new_file_name">newFileName</string>
+    <string name="action_settings">newFileName</string>
+    <string name="newfilenametext">newFileName</string>
+    <string name="pastestr">粘贴</string>
+</resources>
